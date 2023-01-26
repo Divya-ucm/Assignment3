@@ -2,7 +2,7 @@
 Name: Divya Pothuru
 NetworkId:DXP62920
 
-VIDEO-LINK:
+VIDEO-LINK:  https://drive.google.com/file/d/1T1QNPqfrkZajASzBEqd1qmGwVSGlJJta/view?usp=share_link
 
 1. Create a class Employee and then do the following
 • Create a data member to count the number of Employees
@@ -39,7 +39,7 @@ SOLUTION:
 -->And then reshaping the array to 4 by 5 by using the reshape().
 -->Moreover, replacing the maximum value in each row by zero.
 
-Here is the outpu of the code:
+Here is the output of the code:
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/122486644/214763999-4e1148fb-5dbf-40f5-a85c-e268d3f83132.png">
 
 
