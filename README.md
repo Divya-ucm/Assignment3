@@ -19,8 +19,10 @@ SOLUTION:
 -->and then defined the function inorder to show the details of an employee
 -->And then declared the fulltime employee class inorder to inherit the class properties bu using the super method inorder to intiliaze them.
 -->Then declared the main function inorder to call the functions by giving the values to the variables.
-here is the output of the code:
+Here is the output of the code:
 <img width="648" alt="image" src="https://user-images.githubusercontent.com/122486644/214762424-195affce-623e-4a83-bd27-cac7dcd17e7a.png">
+
+
 The count of an employee is             : 4
 Average salary of an employee is: 148750.0
 
@@ -31,6 +33,15 @@ Then replace the max in each row by 0 (axis=1)
 
 SOLUTION:
 -->In this numpy python program we have imported the numpy package inorder to get the random variables.
+-->used an function in order to replace the maximum value of an array based on the conditions of the axis x and y
+-->Then defined the main function inorder to create a random vector of size 
+   EX:To sample Unif[a, b): (b - a) * random_sample() + a
+-->And then reshaping the array to 4 by 5 by using the reshape().
+-->Moreover, replacing the maximum value in each row by zero.
+
+Here is the outpu of the code:
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/122486644/214763999-4e1148fb-5dbf-40f5-a85c-e268d3f83132.png">
+
 
 
 
